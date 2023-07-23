@@ -2,17 +2,18 @@
 [![MasterHead](https://wallpaperaccess.com/full/5927911.gif)](https://rishavchanda.io)
 
 <h3 align="center">An enthuaist of AI and Machine Learning</h3>
+<img align="left"  alt="Coding" width="400" src="https://gist.githubusercontent.com/zeysert/bc8c0a4090c377a755dcc77bbeac66e4/raw/43f9b12677934c5d99499f6d9d574d30c86f979c/coding.gif">
 <img align="right"  alt="Coding" width="400" src="https://gist.githubusercontent.com/zeysert/bc8c0a4090c377a755dcc77bbeac66e4/raw/43f9b12677934c5d99499f6d9d574d30c86f979c/coding.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=d3drips&label=Profile%20views&color=0e75b6&style=flat" alt="d3drips"z /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=d3drips&label=Profile%20views&color=0e75b6&style=flat" alt="d3drips"z /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=d3drips" alt="d3drips" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=d3drips" alt="d3drips" /></a> </p>
 
 - In phase of learning **MEARN and Networking**
 
 - Passionate about **Machine Learning, Networking and NLP**
 
-<h3 align="left">Connect with me:</h3>
+
 <p align="left">
 </p>
 
@@ -21,6 +22,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=d3drips&show_icons=true&locale=en&layout=compact" alt="d3drips" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=d3drips&show_icons=true&locale=en" alt="d3drips" /></p>
-
+<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=d3drips&show_icons=true&locale=en" alt="d3drips" /></p>
+<br></br>
+<br></br>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=d3drips&" alt="d3drips" /></p>
