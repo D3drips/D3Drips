@@ -2,7 +2,7 @@
 [![MasterHead](https://wallpaperaccess.com/full/5927911.gif)](https://rishavchanda.io)
 
 <h3 align="center">An enthuaist of AI and Machine Learning</h3>
-<img align="right" alt="Coding" width="400" src="https://gist.githubusercontent.com/zeysert/bc8c0a4090c377a755dcc77bbeac66e4/raw/43f9b12677934c5d99499f6d9d574d30c86f979c/coding.gif">
+<img align="right"  alt="Coding" width="400" src="https://gist.githubusercontent.com/zeysert/bc8c0a4090c377a755dcc77bbeac66e4/raw/43f9b12677934c5d99499f6d9d574d30c86f979c/coding.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=d3drips&label=Profile%20views&color=0e75b6&style=flat" alt="d3drips"z /> </p>
 
